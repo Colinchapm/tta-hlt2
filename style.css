@@ -1,0 +1,40 @@
+body{
+    background: url('back1.gif') no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    
+}    
+h1{
+    background-color: yellow;
+    
+    
+}
+.c1{
+    color: blue;
+    text-align: center;
+    margin-left: 20px;
+    border-width: 5px;
+    border-color: rgb(122, 8, 126);
+    align-content: center;
+}
+.c2{
+    color: red;
+    font-family: 'Courier New';
+    font-size: 30px;
+    direction: center;
+
+    align-content: center;
+}
+#i1{
+    background-color: white;
+}
+a{
+
+
+    background-color: blue;
+    color:crimson;
+    align-content: center;
+}
+img{
+    align-content: center;
+}
